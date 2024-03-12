@@ -10,7 +10,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 -->
 
 - :man: Jairo Rojas
-- :woman: minombre
+- :bald_man: Gabriel Villalba
 - :woman: minombre 
 
 
