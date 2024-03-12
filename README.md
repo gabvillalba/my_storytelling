@@ -3,15 +3,21 @@
 ### my_storytelling
 Plantilla para crear el storytelling (CDNCAV-b)
 
-Autores:  
+Presidentes implicados:  
 <!---
 Incluir lista de personas del grupo 
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
+<<<<<<
+- :avocado: Otero
+- 🕵️: Jairo Rojas
+- 😫: Gabri Villalba 
+=======
 - :man: Jairo Rojas
 - :bald_man: Gabriel Villalba
 - :woman: minombre 
+>>>>>>
 
 
 Proyecto (código): 
