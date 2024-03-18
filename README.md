@@ -11,7 +11,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 
 - 🥑: Alejandro Otero
 - 🕵️: Jairo Rojas
-- 👨‍🦲: Gabri Villalba
+- 👨‍🦲: Gabriel Villalba
 - 🧚‍♀️: Lucía Montiel 
 
 
@@ -38,12 +38,13 @@ Universidad de Granada - Año 2024
 ### Conflicto 
 Su conflicto es el reflejo de la generación cambiante en que vivimos, pues estamos siendo testigos del rápido avance de la IA en todos los campos, y deberíamos tener una posición con respecto a las consecuencias que dicho avance puede tener en el mundo del cine, que es nuestro futuro profesional. ¿Qué hacer? ¿Seguir apostando por las formas tradicionales o potenciar los efectos de la IA en los procesos de creación fílmica? ¿Dónde queda entonces la figura del director-autor y su impronta personal?
 
-
 ### Productos
 
 - Personaje: (img personaje y enlace a interactivo) 
+
 ![_9769181c-95dd-4cf2-b967-2eac6473b1dd](https://github.com/PresidenteGalactico/my_storytelling/assets/163114182/603dd249-4234-43bf-a97a-0968d9851219)
 
+![cok png](https://github.com/PresidenteGalactico/my_storytelling/assets/163114182/9e60b617-e093-4582-b468-d256291ba731)
 
 - Banner/Teaser:  (enlace) 
 
