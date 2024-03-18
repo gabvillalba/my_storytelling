@@ -18,20 +18,19 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 Proyecto (código): 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
+- [x] Ciencia Ficción  
 - [ ] Reality/tribus urbanas  
 - [ ] Comic
 
 
-
 ## Resumen
-
+Raoul es un estudiante de universidad que pretende destruir a una IA que amenaza con hacerse con el contol del mundo del cine.
 
 ### Personaje
 
 ![](img-nobody.png)
 
-Nombre: 
+Nombre: Raoul (A.K.A. El Travieso).
 
 
 ### Historia
