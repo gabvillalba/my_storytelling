@@ -27,26 +27,22 @@ Tipo/Género:
 Raoul es un estudiante de universidad que pretende destruir a una IA que amenaza con hacerse con el contol del mundo del cine.
 
 ### Personaje
-
-![_9769181c-95dd-4cf2-b967-2eac6473b1dd](https://github.com/PresidenteGalactico/my_storytelling/assets/163114182/603dd249-4234-43bf-a97a-0968d9851219)
-
-
 Nombre: Raoul (A.K.A. El Travieso).
 
-
 ### Historia
-
+Raoul es un joven universitario de notas mediocres que estudia Historia del Cine. Es un fanático de las formas analógicas a la hora de hacer cine. Quiere ser director y tener el control absoluto de sus obras. Cree mucho en la figura del autor. En su paso por la universidad, surge una IA que amenaza con controlar todos los procesos creativos de las futuras películas. Esto plantea una crisis existencial para él como futuro profesional.
 
 ### Contexto
-
+Universidad de Granada - Año 2024
 
 ### Conflicto 
-
+Su conflicto es el reflejo de la generación cambiante en que vivimos, pues estamos siendo testigos del rápido avance de la IA en todos los campos, y deberíamos tener una posición con respecto a las consecuencias que dicho avance puede tener en el mundo del cine, que es nuestro futuro profesional. ¿Qué hacer? ¿Seguir apostando por las formas tradicionales o potenciar los efectos de la IA en los procesos de creación fílmica? ¿Dónde queda entonces la figura del director-autor y su impronta personal?
 
 
 ### Productos
 
 - Personaje: (img personaje y enlace a interactivo) 
+![_9769181c-95dd-4cf2-b967-2eac6473b1dd](https://github.com/PresidenteGalactico/my_storytelling/assets/163114182/603dd249-4234-43bf-a97a-0968d9851219)
 
 
 - Banner/Teaser:  (enlace) 
