@@ -29,6 +29,10 @@ Raoul es un estudiante de universidad que pretende destruir a una IA que amenaza
 ### Personaje
 Nombre: Raoul (A.K.A. El Travieso).
 
+Raoul es un joven altivo y pedante, una parodia de la gastada figura del cinéfilo, elevada a la enésima potencia del absurdo. No apuesta por el futuro de creación cinematográfica, sino que se encuentra anclado a la tradición de forma intransigente. Es muy creativo y apuesta siempre por él mismo. Es muy culto y, a veces, un poco esnob.
+
+Frase: «Christopher Nolan es mi padre».
+
 ### Historia
 Raoul es un joven universitario de notas mediocres que estudia Historia del Cine. Es un fanático de las formas analógicas a la hora de hacer cine. Quiere ser director y tener el control absoluto de sus obras. Cree mucho en la figura del autor. En su paso por la universidad, surge una IA que amenaza con controlar todos los procesos creativos de las futuras películas. Esto plantea una crisis existencial para él como futuro profesional.
 
