@@ -28,7 +28,8 @@ Raoul es un estudiante de universidad que pretende destruir a una IA que amenaza
 
 ### Personaje
 
-![](img-nobody.png)
+![_9769181c-95dd-4cf2-b967-2eac6473b1dd](https://github.com/PresidenteGalactico/my_storytelling/assets/163114182/603dd249-4234-43bf-a97a-0968d9851219)
+
 
 Nombre: Raoul (A.K.A. El Travieso).
 
