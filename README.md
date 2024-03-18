@@ -12,7 +12,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 - 🥑: Alejandro Otero
 - 🕵️: Jairo Rojas
 - 👨‍🦲: Gabri Villalba
-- 🙇‍♀️: Lucía Montiel 
+- 🧚‍♀️: Lucía Montiel 
 
 
 Proyecto (código): 
