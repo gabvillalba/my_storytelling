@@ -50,7 +50,7 @@ Su conflicto es el reflejo de la generación cambiante en que vivimos, pues esta
 
 ![cok png](https://github.com/PresidenteGalactico/my_storytelling/assets/163114182/9e60b617-e093-4582-b468-d256291ba731)
 
-- Banner/Teaser:  (enlace) 
+- Banner/Teaser:  [(enlace) ](https://cloud.protopie.io/p/c658b25d5d2890e7b91e61c3)
 
 
 - Storytelling: (enlace) 
